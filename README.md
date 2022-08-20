@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NejcMaroh
 - 👀 I’m interested in Game Development/videography
 - 🌱 I’m currently learning:
-- 💞️ I’m looking to collaborate on: No one(rn)
-- 📫 How to reach me: You don't (rn)
+- 💞️ I’m looking to collaborate on: (/)
+- 📫 How to reach me: (/)
 
 <!---
 NejcMaroh/NejcMaroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
